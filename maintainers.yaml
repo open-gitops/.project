@@ -9,10 +9,19 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - chrispat
           - christianh814
-          - csand-msft
           - todaywasawesome
-          - chris-short
+          - JaimeMagiera
+          - nikimanoledaki
           - murillodigital
+          - niklasmtj
+          - roberthstrand
           - scottrigby
+      - name: "emeritus-maintainers"
+        members:
+          - csand-msft
+          - chrispat
+          - chris-short
+          - jlbutler
+          - tabern
+          - williamcaban

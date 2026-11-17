@@ -24,7 +24,7 @@ repositories:
 
 website: "https://opengitops.dev/"
 
-artwork: "https://landscape.cncf.io/logos/opengitops.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/opengitops"
 
 adopters:
   path: "https://github.com/open-gitops/project/blob/main/ADOPTERS.md"
